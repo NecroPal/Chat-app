@@ -19,7 +19,6 @@ body {
     align-items: center;
 }
 
-/* Content */
 .content {
   background-color: #5d9bff6e;
   backdrop-filter: blur(5px);
@@ -34,7 +33,6 @@ body {
   margin-bottom: 20px;
 }
 
-/* Profile Picture */
 .profile-picture {
   position: relative;
   width: 120px;
@@ -72,7 +70,6 @@ body {
   opacity: 1;
 }
 
-/* Two-column form */
 .form-grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -100,7 +97,6 @@ body {
   resize: none;
 }
 
-/* Password field */
 .password-container {
   position: relative;
 }
@@ -117,7 +113,6 @@ body {
   color: #888;
 }
 
-/* Button */
 button {
   margin-top: 20px;
   padding: 12px 25px;
